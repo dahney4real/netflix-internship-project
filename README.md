@@ -10,7 +10,7 @@ Welcome to the Netflix Internship Challenge!
 
 ## Instructions
 1. Download both files.
-2. Analyze the dataset using any tool of your choice (Excel, Power BI, Python, etc.).
+2. Analyze the dataset using Power Bi
 3. Use the questionnaire to guide your analysis.
 4. Submit your findings by the deadline.
 
